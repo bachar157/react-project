@@ -1,7 +1,8 @@
-# React Components
 
-This project is a collection of React components that I have created for my personal projects. The components are designed to be reusable and easy to integrate into any React application.
+# React Components App
 
-## Screenshots
+This is a React project that demonstrates various components. The application is hosted on GitHub Pages.
 
-![image](https://github.com/stefanoturcarelli/react-components/assets/67341828/0333da5b-3ac8-43b6-b081-ea9c43a0841b)
+## Demo
+
+Check out the live demo: [React Components App Demo](https://bachar157.github.io/react-project-app/)
