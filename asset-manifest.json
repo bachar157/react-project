@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/bachar157/react-project-app.git/static/css/main.e52a324b.css",
-    "main.js": "/bachar157/react-project-app.git/static/js/main.e0a29efb.js",
-    "index.html": "/bachar157/react-project-app.git/index.html",
-    "main.e52a324b.css.map": "/bachar157/react-project-app.git/static/css/main.e52a324b.css.map",
-    "main.e0a29efb.js.map": "/bachar157/react-project-app.git/static/js/main.e0a29efb.js.map"
+    "main.css": "/react-project-app/static/css/main.e52a324b.css",
+    "main.js": "/react-project-app/static/js/main.e0a29efb.js",
+    "index.html": "/react-project-app/index.html",
+    "main.e52a324b.css.map": "/react-project-app/static/css/main.e52a324b.css.map",
+    "main.e0a29efb.js.map": "/react-project-app/static/js/main.e0a29efb.js.map"
   },
   "entrypoints": [
     "static/css/main.e52a324b.css",
