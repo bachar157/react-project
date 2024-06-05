@@ -6,12 +6,12 @@ import FooterComponent from "./components/FooterComponent";
 // Main App component
 function App() {
   // Page titles and text
-  const siteTitle = "QuoteMaster";
+  const siteTitle = "BACHAR";
   const homeLabel = "Home";
   const aboutLabel = "About";
   const contactLabel = "Contact";
 
-  const bannerMessage1 = "Capture the moments,";
+  const bannerMessage1 = "we are here ,";
   const bannerMessage2 = "cherish the quotes.";
 
   // Array of quotes
