@@ -21,7 +21,7 @@ function App() {
       quote: "To be or not to be, that is the question.",
       movie: "Hamlet",
       year: 1603,
-      img: "http://www.nivasa.lk/wp-content/uploads/2014/09/Amazing-architecture-designs-luxury-and-beautiful-house-exteriors-with-curving-swimming-pool-and-deck-with-cool-lighting-view-evening_nivasa_lk.jpg",
+      img: "https://tse4.mm.bing.net/th?id=OIP._FrbG20TXZbYqlc-19XV2gHaE8&pid=Api&P=0&h=220",
       whoSaidIt: "William Shakespeare",
     },
     {
@@ -29,7 +29,7 @@ function App() {
       quote: "The only thing we have to fear is fear itself.",
       movie: "Speech",
       year: 1933,
-      img: "https://www.jamesedition.com/stories/wp-content/uploads/2022/03/mansions_main_fin.jpg",
+      img: "https://tse4.mm.bing.net/th?id=OIP._FrbG20TXZbYqlc-19XV2gHaE8&pid=Api&P=0&h=220",
       whoSaidIt: "Franklin D. Roosevelt",
     },
     {
@@ -37,7 +37,7 @@ function App() {
       quote: "That's one small step for man, one giant leap for mankind.",
       movie: "Moon Landing",
       year: 1969,
-      img: "https://luxuryviewer.com/wp-content/uploads/2021/01/shutterstock_349464740-2048x1362.jpg",
+      img: "https://tse4.mm.bing.net/th?id=OIP._FrbG20TXZbYqlc-19XV2gHaE8&pid=Api&P=0&h=220",
       whoSaidIt: "Neil Armstrong",
     },
     {
